@@ -4,6 +4,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on polishing the fundamentals with coding challenges
 - 🌱 I’m currently learning Python and Javascript
-- 🤔 I’m looking for help with ways to prepare to look for a developer job
 - 📫 How to reach me: jesusmiguelxrm@gmail.com
 - ⚡ Fun fact: I am a Stand-Up Comedian
