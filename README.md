@@ -33,10 +33,10 @@
 ### 🌐 Mis redes y contacto
 
 <p align="center">
-  <a href="https://github.com/MiwelFC" target="_blank">
+  <a href="https://github.com/ning3n" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.tiktok.com/@miwelfc" target="_blank">
+  <a href="https://www.tiktok.com/@miweltv" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
   <!-- Agregá tu LinkedIn o email si querés -->
