@@ -5,7 +5,7 @@
 
 <!-- Presentación -->
 <h1 align="center">👾 ¡Hola! Soy Miwel 👾</h1>
-<h2 align="center">Desarrollador Flutter en formación y Jr Fullstack Developer. Apasionado por el código, el diseño creativo y los videojuegos 🎮</h2>
+<h3 align="center">Desarrollador Flutter en formación y Jr Fullstack Developer. Apasionado por el código, el diseño creativo y los videojuegos 🎮</h3>
 
 ---
 
