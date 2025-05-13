@@ -1,6 +1,6 @@
 <!-- Banner estilo gamer animado -->
 <h1 align="center">
-  <img src="./github-header-image.png" alt="Banner Retro Gamer" width="100%" />
+  <img src="./github-header-image2.png" alt="Banner Retro Gamer" width="100%" />
 </h1>
 
 <!-- Presentación -->
