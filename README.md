@@ -1,6 +1,6 @@
 <!-- Banner estilo gamer animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFD9&center=true&vCenter=true&width=435&lines=Flutter+Developer;Jr+Fullstack+Developer;Leveling+up+daily+🚀" alt="Typing SVG" />
+  ![Banner Retro](./github-header-image.png)
 </h1>
 
 <!-- Presentación -->
